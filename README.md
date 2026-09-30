@@ -6,7 +6,7 @@ It showcases my skills, projects, and contact information in a clean and modern 
 ---
 
 ##  Live Demo
-👉 https://divy686.github.io/my-portfolio-website/
+👉 https://my-portfolio-website-beta-lake.vercel.app/
 
 ---
 
